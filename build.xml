@@ -1,5 +1,6 @@
 <project name="asmack" default="compile" basedir=".">
 
+
 <property name="jar.suffix" value="" />
 <property name="jingle" value="" />
 <property file="local.properties" />
